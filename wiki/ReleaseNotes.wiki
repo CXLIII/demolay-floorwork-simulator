@@ -2,9 +2,9 @@
 
 = Version 1.1 =
 
-Fix: issue 6 (Hitting Reset while paused doesn't Reset)
-Add code website to Help->About
+  * Fix: issue 6 (Hitting Reset while paused doesn't Reset)
+  * Add code website to Help->About
 
 == Version 1.0 ==
 
-Initial Release
+  * Initial Release
