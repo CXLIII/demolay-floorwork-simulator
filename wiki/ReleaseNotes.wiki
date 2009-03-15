@@ -1,0 +1,9 @@
+#summary Release Notes and Version History
+
+= Version 1.1 =
+
+Fix: issue 6 (Hitting Reset while paused doesn't Reset)
+
+== Version 1.0 ==
+
+Initial Release
