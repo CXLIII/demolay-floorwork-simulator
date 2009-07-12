@@ -1,8 +1,8 @@
 #summary Release Notes and Version History
+#labels Featured
 
 = Version 1.2 (current) =
-  * Added opening/closing simulations
-  * Fix: issue 2
+  * Added opening/closing simulations (issue 2)
 
 == Version 1.1 ==
 
