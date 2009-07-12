@@ -1,6 +1,9 @@
 #summary Release Notes and Version History
 
-= Version 1.1 =
+= Version 1.2 (current)
+  * New: issue 2
+
+== Version 1.1 ==
 
   * Fix: issue 6 (Hitting Reset while paused doesn't Reset)
   * Add code website to Help->About
