@@ -6,7 +6,7 @@
    * File->Hide Simulation Code
   * User-defined simulations (issue 13)
 
-=== Version 1.2 (current) ===
+=== Version 1.2 ===
   * Added opening/closing simulations (issue 2)
 
 === Version 1.1 ===
